@@ -6,7 +6,6 @@ It highlights average length of stay and visualizes trends for improved healthca
 ## 🔧 Tools Used
 - Power BI
 - Excel
-- SQL
 
 ## 📊 Visuals Included
 - Bar Chart: Admissions by Department
