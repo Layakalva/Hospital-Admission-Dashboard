@@ -15,7 +15,7 @@ It highlights average length of stay and visualizes trends for improved healthca
 - Card KPI: Avg Length of Stay
 
 ## 📸 Screenshot
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## 📁 Download Project File
 [Hospital_Admission_Dashboard.pbix](Hospital_Admission_Dashboard.pbix)
