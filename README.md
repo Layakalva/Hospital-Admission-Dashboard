@@ -19,5 +19,13 @@ It highlights average length of stay and visualizes trends for improved healthca
 ## 📁 Download Project File
 [Hospital_Admission_Dashboard.pbix](Hospital_Admission_Dashboard.pbix)
 
+## 🗃️ Dataset
+
+The Excel file used to build this dashboard is included here:  
+[Dataset/Hospital_Patient_Data_Analysis.xlsx](Dataset/Hospital_Patient_Data_Analysis.xlsx)
+
+> 📂 Data Source: Raw hospital patient data cleaned and prepared in Excel before importing to Power BI.
+
+
 
 
