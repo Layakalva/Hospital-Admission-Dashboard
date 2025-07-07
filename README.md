@@ -26,6 +26,7 @@ The Excel file used to build this dashboard is included here:
 
 > 📂 Data Source: Raw hospital patient data cleaned and prepared in Excel before importing to Power BI.
 
+📌 *Updated: Added slicers for Department and Admission Date for better interactivity.*
 
 
 
